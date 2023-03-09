@@ -8,3 +8,4 @@ echo 8888;die;
 echo 5555;die;
 echo 6666;die;
 echo 1212;die;
+echo 1010;die;
